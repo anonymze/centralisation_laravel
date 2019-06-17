@@ -1,0 +1,79 @@
+html {
+    font-size: 0.95rem !important;
+}
+
+body {
+    font-size: 0.95rem !important;
+}
+
+td {
+    font-size: 0.95rem !important;
+    border-top: 0 !important;
+}
+
+th {
+    font-size: 0.95rem !important;
+    font-weight: normal !important
+}
+
+table.dataTable td {
+    vertical-align: middle !important;
+}
+
+#products-datatable td:first-child{
+    text-align: center !important;
+}
+
+#topnav a span {
+    font-weight: bold !important;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
+
+.ms-container {
+    max-width: none !important;
+    width: 90% !important;
+    margin-left: 1.2em !important;
+}
+
+.ms-list {
+    height: auto !important;
+    max-height: 80px !important;
+}
+
+h5 {
+    margin-bottom: 0 !important;
+}
+
+.form-group {
+    margin-bottom: 0 !important;
+}
+
+label {
+    font-style: italic;
+    margin-left: 1em;
+}
+
+.label-form {
+    font-style: normal !important;
+    margin-left: 0 !important;
+    margin-bottom: 0 !important;
+    padding-top: 0.9em !important;
+}
+
+.stock {
+    background-color: rgba(0, 0, 0, 0) !important;
+    color: #FF1493 !important;
+}
+
+.mini-card {
+    width: 50%;
+    display: block;
+    margin: 0 auto 40px;
+}
+
+.pointer {
+    cursor: pointer;
+}
